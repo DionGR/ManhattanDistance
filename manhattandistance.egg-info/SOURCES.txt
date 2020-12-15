@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+manhattandistance/__init__.py
+manhattandistance/utils.py
+manhattandistance.egg-info/PKG-INFO
+manhattandistance.egg-info/SOURCES.txt
+manhattandistance.egg-info/dependency_links.txt
+manhattandistance.egg-info/top_level.txt

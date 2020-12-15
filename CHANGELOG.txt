@@ -1,0 +1,8 @@
+Manhattan Distance
+==================
+Updated: 15/DEC/2020
+==================
+
+v1.1.1:
+- Added the Manhattan Distance formula.
+- Fixed bugs.

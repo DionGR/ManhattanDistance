@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: manhattandistance
+Version: 1.1.1
+Summary: Calculates the Manhattan Distance of two places
+Home-page: http://packages.python.org/manhattandistance
+Author: Dionysios Rigatos
+Author-email: dion.rigatos@gmail.com
+License: MIT License
+Description: Manhattan Distance
+        ====================================
+        Definition: The distance between two points measured along axes at right angles.
+        ====================================
+        
+        This library allows you to calculate the Manhattan Distance between two points using their coordinates.
+        
+        Usage: 
+        from manhattandistance import utils
+            utils.mandist(lat_from, lon_from, lat_to, lon_to) 
+        lat = integer or float
+        
+        
+        
+        Manhattan Distance
+        ==================
+        Updated: 15/DEC/2020
+        ==================
+        
+        v1.1.1:
+        - Added the Manhattan Distance formula.
+        - Fixed bugs.
+Keywords: distance
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
