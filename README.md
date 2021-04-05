@@ -16,9 +16,8 @@ pip install manhattandistance
 ```python
 from manhattandistance import utils 
 
-distanceVar = utils.mandist(lat_from, lon_from, lat_to, lon_to)
+utils.mandist(lat_from, lon_from, lat_to, lon_to)
 # Lat/Lon should be of type double or float. 
-# Returns a double.
 ```
 
 ## Purpose
